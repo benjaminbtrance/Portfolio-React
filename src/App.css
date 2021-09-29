@@ -30,6 +30,6 @@ nav ul li {
 
 .navbar-nav > li > a {
 	margin-right: 0.75rem;
-	margin-left: 00.75rem;
+	margin-left: 0.75rem;
 	color: var(--primary-white) !important;
 }
