@@ -18,19 +18,19 @@ const ProfolioNav = (props) => {
 		<Navbar className="navbar navbar-expand-lg navbar-light bg-dark">
 			<Container>
 				<NavbarBrand className="logo">BBT</NavbarBrand>
-				<NavbarToggler onClick={toggle} />
+				<NavbarToggler className="hamburger" onClick={toggle} />
 				<Collapse isOpen={isOpen} navbar>
 					<Nav className="navbar-nav ms-auto" navbar>
-						<NavItem>
+						<NavItem className="active">
 							<NavLink href="#">Home</NavLink>
 						</NavItem>
-						<NavItem>
+						<NavItem className="active">
 							<NavLink href="#">About Me</NavLink>
 						</NavItem>
-						<NavItem>
+						<NavItem className="active">
 							<NavLink href="#">Portfolio</NavLink>
 						</NavItem>
-						<NavItem>
+						<NavItem className="active">
 							<NavLink href="#">Contacts</NavLink>
 						</NavItem>
 					</Nav>
