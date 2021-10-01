@@ -3,6 +3,8 @@ import './App.css';
 import Navbar from './components/Navbar';
 import Header from './components/Header';
 import AboutMe from './components/AboutMe';
+import PortfolioList from './components/PortfolioList';
+import myPortfolio from './portfolio';
 
 function App() {
 	return (
@@ -10,6 +12,7 @@ function App() {
 			<Navbar />
 			<Header />
 			<AboutMe />
+			<PortfolioList myPortfolioList={myPortfolio} />
 		</>
 	);
 }
