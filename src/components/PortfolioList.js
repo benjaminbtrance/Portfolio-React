@@ -4,7 +4,7 @@ const PortfolioList = ({ myPortfolioList }) => {
 	return (
 		<section id="myPortfolioList" className="container mt-3 pb-3">
 			<div className="post-heading text-center pb-3">
-				<h3 className="display-4">My Work</h3>
+				<h3 className="display-4">My Portfolio</h3>
 				<hr className="w-50 mx-auto" />
 			</div>
 			<div className="row">
