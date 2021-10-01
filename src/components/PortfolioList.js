@@ -2,7 +2,7 @@ import React from 'react';
 
 const PortfolioList = ({ myPortfolioList }) => {
 	return (
-		<section id="work" className="container mt-3 pb-3">
+		<section id="myPortfolioList" className="container mt-3 pb-3">
 			<div className="post-heading text-center pb-3">
 				<h3 className="display-4">My Work</h3>
 				<hr className="w-50 mx-auto" />

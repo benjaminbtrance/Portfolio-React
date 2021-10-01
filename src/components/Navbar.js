@@ -28,10 +28,10 @@ const ProfolioNav = (props) => {
 							<NavLink href="#about-me">About Me</NavLink>
 						</NavItem>
 						<NavItem className="active">
-							<NavLink href="#">Portfolio</NavLink>
+							<NavLink href="#myPortfolioList">Portfolio</NavLink>
 						</NavItem>
 						<NavItem className="active">
-							<NavLink href="#">Contacts</NavLink>
+							<NavLink href="#contact">Contacts</NavLink>
 						</NavItem>
 					</Nav>
 				</Collapse>

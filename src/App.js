@@ -5,6 +5,8 @@ import Header from './components/Header';
 import AboutMe from './components/AboutMe';
 import PortfolioList from './components/PortfolioList';
 import myPortfolio from './portfolio';
+import Contact from './components/Contact';
+import Footer from './components/Footer';
 
 function App() {
 	return (
@@ -13,6 +15,8 @@ function App() {
 			<Header />
 			<AboutMe />
 			<PortfolioList myPortfolioList={myPortfolio} />
+			<Contact />
+			<Footer />
 		</>
 	);
 }
