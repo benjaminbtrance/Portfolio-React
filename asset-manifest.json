@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.1f0ca17d.chunk.css",
-    "main.js": "/portfolio-react/static/js/main.49031170.chunk.js",
-    "main.js.map": "/portfolio-react/static/js/main.49031170.chunk.js.map",
+    "main.js": "/portfolio-react/static/js/main.ed53e355.chunk.js",
+    "main.js.map": "/portfolio-react/static/js/main.ed53e355.chunk.js.map",
     "runtime-main.js": "/portfolio-react/static/js/runtime-main.4a0e2eea.js",
     "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.4a0e2eea.js.map",
     "static/css/2.f2512455.chunk.css": "/portfolio-react/static/css/2.f2512455.chunk.css",
@@ -15,13 +15,16 @@
     "static/css/main.1f0ca17d.chunk.css.map": "/portfolio-react/static/css/main.1f0ca17d.chunk.css.map",
     "static/js/2.40a7d5fb.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.40a7d5fb.chunk.js.LICENSE.txt",
     "static/media/benny1.11c185a7.JPG": "/portfolio-react/static/media/benny1.11c185a7.JPG",
-    "static/media/App.css": "/portfolio-react/static/media/benny2.70350632.JPG"
+    "static/media/App.css": "/portfolio-react/static/media/benny2.70350632.JPG",
+    "static/media/generate-password-js.6166e9a6.JPG": "/portfolio-react/static/media/generate-password-js.6166e9a6.JPG",
+    "static/media/js-quiz.35050a9d.JPG": "/portfolio-react/static/media/js-quiz.35050a9d.JPG",
+    "static/media/weather-api.1621d7a5.JPG": "/portfolio-react/static/media/weather-api.1621d7a5.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.4a0e2eea.js",
     "static/css/2.f2512455.chunk.css",
     "static/js/2.40a7d5fb.chunk.js",
     "static/css/main.1f0ca17d.chunk.css",
-    "static/js/main.49031170.chunk.js"
+    "static/js/main.ed53e355.chunk.js"
   ]
 }
