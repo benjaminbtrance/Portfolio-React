@@ -21,7 +21,7 @@ const PortfolioList = ({ myPortfolioList }) => {
 								/>
 								<div className="card-body">
 									<h5 className="card-title">{portfolio.name}</h5>
-									<p className="card-text" style={{ height: '100px' }}>
+									<p className="card-text" style={{ height: '110px' }}>
 										{portfolio.description}
 									</p>
 									<div className="d-flex justify-content-between align-items-center">
