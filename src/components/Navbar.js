@@ -28,6 +28,11 @@ const ProfolioNav = (props) => {
 							<NavLink href="#about-me">About Me</NavLink>
 						</NavItem>
 						<NavItem className="active">
+							<NavLink href="https://drive.google.com/file/d/18G9c9-1q6elp-J_LYm6fZHo9_KC1Msq3/view?usp=sharing">
+								Resume
+							</NavLink>
+						</NavItem>
+						<NavItem className="active">
 							<NavLink href="#myPortfolioList">Portfolio</NavLink>
 						</NavItem>
 						<NavItem className="active">
