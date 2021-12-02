@@ -19,18 +19,15 @@ const AboutMe = () => {
 
 				<div className="col-lg-6 col-md-6 col-12 pb-3">
 					<p>
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat
-						excepturi ipsam veniam totam vel doloremque eaque quis explicabo
-						eius exercitationem quos magni sunt, quae necessitatibus nobis
-						minima nisi minus eligendi non? Illo ad aut, dicta modi aliquid
-						aliquam temporibus, ipsum debitis sapiente iusto consequatur
-						consectetur possimus minima ratione cumque suscipit nihil tempore
-						nisi vero dolorum consequuntur atque officia dolores molestias! Sed,
-						possimus. Consequatur cum reprehenderit sit magnam, nam dolore
-						temporibus eum aliquam, alias et iure officia, doloremque obcaecati
-						magni modi eligendi. Quasi, expedita fugiat. Molestiae eveniet enim
-						numquam, nisi tenetur commodi dolorum amet iusto. Provident animi
-						quia alias veniam obcaecati?
+						A self-motivated Full Stack Web Developer efficient at combining
+						creativity and problem solving to develop user-friendly
+						applications. Throughout my life both on a professional and
+						educational level, I have established myself as a team player,
+						knowing how to communicate with others. Known among colleagues for
+						strong work ethics and attention to detail no matter the complexity
+						of the project. Seeking to leverage broad development experience and
+						hands-on technical expertise in a challenging role as a Full-stack
+						Developer.
 					</p>
 				</div>
 			</div>
